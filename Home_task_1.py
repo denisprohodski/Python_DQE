@@ -33,11 +33,3 @@ else:
 # print(f"Odd numbers: {odd_numbers}")
 print(f"Average of even numbers: {even_average}")
 print(f"Average of odd numbers: {odd_average}")
-
-
-x = 9 ** 19 - int(float(9**19))
-
-print (x)
-
-name = input()
-print ('Hello ', name )
